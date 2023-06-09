@@ -17,7 +17,6 @@ Tattoo Artist Finder is a web application that helps users find tattoo artists b
 - Node.js
 - Express.js
 - MongoDB
-- React.js
 - Google Maps API
 - HTML/CSS
 - JavaScript
