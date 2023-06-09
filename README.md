@@ -20,3 +20,8 @@ Tattoo Artist Finder is a web application that helps users find tattoo artists b
 - Google Maps API
 - HTML/CSS
 - JavaScript
+
+
+## Relevant Links
+
+- https://trello.com/b/XURzjUJY
