@@ -1,4 +1,4 @@
-# Tattoo Artist Finder
+# Tatdood
 
 Tattoo Artist Finder is a web application that helps users find tattoo artists based on their preferences, location, and style. Whether you're looking for a specific tattoo style or searching for talented artists in your area, this app will connect you with the right artists.
 
